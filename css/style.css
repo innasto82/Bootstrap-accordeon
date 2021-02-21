@@ -1,0 +1,17 @@
+* {
+    background-color:yellowgreen;
+    text-align: center;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    color: black;
+}
+
+.card-header, .card-title {
+    background-color: olivedrab;
+}
